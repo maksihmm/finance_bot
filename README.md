@@ -69,13 +69,13 @@ finance_bot/
 Клонировать репозиторий
 
 ```bash
-git clone https://github.com/<your_username>/telegram-finance-bot.git
+git clone git@github.com:maksihmm/finance_bot.git
 ```
 
 Перейти в папку проекта
 
 ```bash
-cd telegram-finance-bot
+cd finance_bot
 ```
 
 Создать виртуальное окружение
