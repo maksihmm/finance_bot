@@ -1,0 +1,23 @@
+# Данные
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+manager/__pycache__/
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Данные пользователей
+manager/users/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+__MACOSX/
+
