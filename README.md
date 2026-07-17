@@ -28,6 +28,26 @@
 
 ---
 
+## 📱 Скриншоты
+
+### Приветствие
+
+![Приветствие](assets/images/start-menu.png)
+
+### Справка
+
+![Справка](assets/images/help-menu.png)
+
+### Режим учета
+
+![Режим учета](assets/images/account-mode.png)
+
+### Mои финансы
+
+![Мои финансы](assets/images/finance-menu.png)
+
+---
+
 ## 🛠 Используемые технологии
 
 - Python 3.11
