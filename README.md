@@ -1,5 +1,10 @@
 # 💰 Telegram Finance Bot
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4)
+![Status](https://img.shields.io/badge/Status-Development-orange)
+
 Простой и удобный Telegram-бот для учета личных финансов.
 
 Проект разработан на Python с использованием **aiogram 3**. Позволяет вести учет доходов и расходов, просматривать баланс и историю операций через интерфейс Telegram.
